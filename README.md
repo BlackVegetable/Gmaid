@@ -11,7 +11,7 @@ Installation:
 
 2) Go to script.google.com
 
-3) Look at the code in gmaid.js to make sure you grok what it does. It's fifteen lines. Don't blindly trust strangers on the internet.
+3) Look at the code in gmaid.js to make sure you grok what it does. It's fifteen lines. Don't blindly trust strangers on the internet, unless of course they are named Alex Maki-Jokela or something as suitably cool.
 
 4) Paste the code from gmaid.js into the box. Modify whatever you want to modify.
 
